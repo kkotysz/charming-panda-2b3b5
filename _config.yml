@@ -36,3 +36,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 baseurl: ''
+
+theme: jekyll-theme-minimal
